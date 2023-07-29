@@ -1,5 +1,5 @@
 // Abbreviation.abbreviationsに書かれた略語表に存在する略称を変換するプログラム
-// 前置詞の消去はできない
+// 前置詞の消去も行う
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
